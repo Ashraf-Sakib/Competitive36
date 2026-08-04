@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 13 |
+| 52 | 14 |
 
 ---
 
@@ -15,14 +15,15 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (8)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (28)
-- [math](#math) (9)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (38)
+- [math](#math) (14)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (3)
 - [strings](#strings) (13)
 - [ternary search](#ternary-search) (1)
 
@@ -50,16 +51,20 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/122/A%20-%20Lucky%20Division/solution.c) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.c) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/479/A%20-%20Expression/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.c) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.c) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 
@@ -75,8 +80,11 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/58/A%20-%20Chat%20room/solution.c) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/160/A%20-%20Twins/solution.c) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.c) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
 
 ### implementation
 
@@ -91,9 +99,13 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/116/A%20-%20Tram/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/118/A%20-%20String%20Task/solution.c) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/133/A%20-%20HQ9%2B/solution.c) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/136/A%20-%20Presents/solution.c) |
+| 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.c) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.c) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
@@ -101,6 +113,10 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/344/A%20-%20Magnets/solution.c) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.c) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.c) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/520/A%20-%20Pangram/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
@@ -109,7 +125,9 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.c) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.c) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 
 ### math
 
@@ -118,12 +136,23 @@
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1/A%20-%20Theatre%20Square/solution.c) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/69/A%20-%20Young%20Physicist/solution.c) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.c) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/318/A%20-%20Even%20Odds/solution.c) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/479/A%20-%20Expression/solution.c) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/617/A%20-%20Elephant/solution.c) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/122/A%20-%20Lucky%20Division/solution.c) |
 
 ### shortest paths
 
@@ -135,7 +164,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/160/A%20-%20Twins/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.c) |
 
 ### strings
 
