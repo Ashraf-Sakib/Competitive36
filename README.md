@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 154 | 24 |
+| 168 | 25 |
 
 ---
 
@@ -14,24 +14,25 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (2)
-- [binary search](#binary-search) (9)
+- [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (24)
+- [brute force](#brute-force) (28)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (6)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
+- [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (29)
+- [greedy](#greedy) (34)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (94)
-- [math](#math) (50)
-- [number theory](#number-theory) (12)
+- [implementation](#implementation) (99)
+- [math](#math) (58)
+- [number theory](#number-theory) (13)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (5)
-- [sortings](#sortings) (13)
+- [sortings](#sortings) (14)
 - [strings](#strings) (27)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (3)
@@ -65,6 +66,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 
 ### bitmasks
@@ -86,13 +88,17 @@
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/268/A%20-%20Games/solution.c) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.c) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/279/B%20-%20Books/solution.cpp) |
+| 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
+| 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/479/A%20-%20Expression/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.c) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
@@ -149,6 +155,13 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.c) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.c) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### geometry
 
@@ -179,12 +192,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 3A | [Shortest path of the king](https://codeforces.com/contest/3/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/3/A%20-%20Shortest%20path%20of%20the%20king/solution.cpp) |
+| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/58/A%20-%20Chat%20room/solution.c) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/160/A%20-%20Twins/solution.c) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/231/A%20-%20Team/solution.c) |
+| 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
@@ -195,6 +210,9 @@
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.c) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
+| 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.cpp) |
+| 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
+| 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.cpp) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
@@ -262,9 +280,11 @@
 | 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/431/A%20-%20Black%20Square/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.c) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
+| 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.c) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
+| 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
@@ -311,7 +331,10 @@
 | 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.cpp) |
 | 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1850/C%20-%20Word%20on%20the%20Paper/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
+| 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.cpp) |
 | 1937A | [Shuffle Party](https://codeforces.com/contest/1937/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1937/A%20-%20Shuffle%20Party/solution.cpp) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
+| 1950B | [Upscaling](https://codeforces.com/contest/1950/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1950/B%20-%20Upscaling/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 
 ### math
@@ -328,6 +351,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/318/A%20-%20Even%20Odds/solution.c) |
+| 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/479/A%20-%20Expression/solution.c) |
@@ -346,16 +370,22 @@
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++14 (GCC 6-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.cpp) |
+| 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
+| 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
+| 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.cpp) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
@@ -363,6 +393,7 @@
 | 1846A | [Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | 800 | [C++14 (GCC 6-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1846/A%20-%20Rudolph%20and%20Cut%20the%20Rope%20/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
 | 1937A | [Shuffle Party](https://codeforces.com/contest/1937/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1937/A%20-%20Shuffle%20Party/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
@@ -385,6 +416,7 @@
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### probabilities
 
@@ -406,6 +438,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/160/A%20-%20Twins/solution.c) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
