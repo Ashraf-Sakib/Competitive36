@@ -1,0 +1,29 @@
+<h2><a href="https://codeforces.com/contest/1759/problem/A" target="_blank" rel="noopener noreferrer">1759A — Yes-Yes?</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 11-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1759A](https://codeforces.com/contest/1759/problem/A) |
+
+## Topics
+`implementation` `strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Yes-Yes?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You talked to Polycarp and asked him a question. You know that when he wants to answer "yes", he repeats <span class="tex-font-style-tt">Yes</span> many times in a row.</p><p>Because of the noise, you only heard part of the answer — some substring of it. That is, if he answered <span class="tex-font-style-tt">YesYes</span>, then you could hear <span class="tex-font-style-tt">esY</span>, <span class="tex-font-style-tt">YesYes</span>, <span class="tex-font-style-tt">sYes</span>, <span class="tex-font-style-tt">e</span>, but you couldn't <span class="tex-font-style-tt">Yess</span>, <span class="tex-font-style-tt">YES</span> or <span class="tex-font-style-tt">se</span>.</p><p>Determine if it is true that the given string $$$s$$$ is a substring of <span class="tex-font-style-tt">YesYesYes...</span> (<span class="tex-font-style-tt">Yes</span> repeated many times in a row).</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input data contains the singular $$$t$$$ ($$$1 \le t \le 1000$$$) — the number of test cases in the test.</p><p>Each test case is described by a single string of Latin letters $$$s$$$ ($$$1 \le |s| \le 50$$$) — the part of Polycarp's answer that you heard, where $$$|s|$$$ — is the length of the string $$$s$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output $$$t$$$ lines, each of which is the answer to the corresponding test case. As an answer, output "<span class="tex-font-style-tt">YES</span>" if the specified string $$$s$$$ is a substring of the string <span class="tex-font-style-tt">YesYesYes...Yes</span> (the number of words <span class="tex-font-style-tt">Yes</span> is arbitrary), and "<span class="tex-font-style-tt">NO</span>" otherwise.</p><p>You can output the answer in any case (for example, the strings "<span class="tex-font-style-tt">yEs</span>", "<span class="tex-font-style-tt">yes</span>", "<span class="tex-font-style-tt">Yes</span>" and "<span class="tex-font-style-tt">YES</span>" will be recognized as a positive answer).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007597977255652036" id="id006300249956021304" class="input-output-copier">Copy</div></div><pre id="id007597977255652036"><div class="test-example-line test-example-line-even test-example-line-0">12</div><div class="test-example-line test-example-line-odd test-example-line-1">YES</div><div class="test-example-line test-example-line-even test-example-line-2">esYes</div><div class="test-example-line test-example-line-odd test-example-line-3">codeforces</div><div class="test-example-line test-example-line-even test-example-line-4">es</div><div class="test-example-line test-example-line-odd test-example-line-5">se</div><div class="test-example-line test-example-line-even test-example-line-6">YesY</div><div class="test-example-line test-example-line-odd test-example-line-7">esYesYesYesYesYesYe</div><div class="test-example-line test-example-line-even test-example-line-8">seY</div><div class="test-example-line test-example-line-odd test-example-line-9">Yess</div><div class="test-example-line test-example-line-even test-example-line-10">sY</div><div class="test-example-line test-example-line-odd test-example-line-11">o</div><div class="test-example-line test-example-line-even test-example-line-12">Yes</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006180392487911195" id="id0033220407571534005" class="input-output-copier">Copy</div></div><pre id="id006180392487911195">NO
+YES
+NO
+YES
+NO
+YES
+YES
+NO
+NO
+YES
+NO
+YES
+</pre></div></div></div>
