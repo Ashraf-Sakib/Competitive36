@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 221 | 27 |
+| 222 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (36)
@@ -53,6 +53,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
