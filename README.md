@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 232 | 27 |
+| 233 | 27 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [greedy](#greedy) (52)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (132)
-- [math](#math) (84)
+- [math](#math) (85)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (5)
@@ -504,6 +504,7 @@
 | 1937A | [Shuffle Party](https://codeforces.com/contest/1937/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1937/A%20-%20Shuffle%20Party/solution.cpp) |
 | 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
+| 1980A | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1980/A%20-%20Problem%20Generator/solution.cpp) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 1985D | [Manhattan Circle](https://codeforces.com/contest/1985/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1985/D%20-%20Manhattan%20Circle/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
