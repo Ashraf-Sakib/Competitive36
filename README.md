@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 240 | 27 |
+| 241 | 27 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (54)
+- [greedy](#greedy) (55)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (135)
 - [math](#math) (86)
@@ -275,6 +275,7 @@
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
 | 1825A | [LuoTianyi and the Palindrome String](https://codeforces.com/contest/1825/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1825/A%20-%20LuoTianyi%20and%20the%20Palindrome%20String/solution.c) |
+| 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1872A | [Two Vessels](https://codeforces.com/contest/1872/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1872/A%20-%20Two%20Vessels/solution.cpp) |
