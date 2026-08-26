@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 246 | 27 |
+| 247 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (41)
+- [brute force](#brute-force) (42)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (3)
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (57)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (137)
+- [implementation](#implementation) (138)
 - [math](#math) (89)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
@@ -107,6 +107,7 @@
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/479/A%20-%20Expression/solution.c) |
+| 509A | [Maximum in Table](https://codeforces.com/contest/509/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/509/A%20-%20Maximum%20in%20Table/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.c) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
@@ -366,6 +367,7 @@
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
+| 509A | [Maximum in Table](https://codeforces.com/contest/509/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/509/A%20-%20Maximum%20in%20Table/solution.cpp) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/520/A%20-%20Pangram/solution.c) |
