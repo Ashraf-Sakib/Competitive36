@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 248 | 27 |
+| 249 | 27 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [greedy](#greedy) (58)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (138)
-- [math](#math) (89)
+- [math](#math) (90)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (5)
@@ -517,6 +517,7 @@
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1579A | [Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1579/A%20-%20Casimir's%20String%20Solitaire/solution.cpp) |
+| 1593A | [Elections](https://codeforces.com/contest/1593/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1593/A%20-%20Elections/solution.cpp) |
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.cpp) |
