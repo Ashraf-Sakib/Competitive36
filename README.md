@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 256 | 27 |
+| 257 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (48)
+- [brute force](#brute-force) (49)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (3)
@@ -28,9 +28,9 @@
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (58)
-- [hashing](#hashing) (2)
+- [hashing](#hashing) (3)
 - [implementation](#implementation) (138)
-- [math](#math) (94)
+- [math](#math) (95)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (5)
@@ -139,6 +139,7 @@
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 | 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2121/A%20-%20Letter%20Home/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
@@ -310,6 +311,7 @@
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++20 (GCC 11-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 
 ### implementation
 
@@ -549,6 +551,7 @@
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 | 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2121/A%20-%20Letter%20Home/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
