@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 257 | 27 |
+| 258 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (49)
@@ -61,6 +61,7 @@
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### binary search
 
