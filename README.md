@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 258 | 27 |
+| 259 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (9)
+- [Uncategorized](#uncategorized) (10)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (49)
@@ -62,6 +62,7 @@
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 
 ### binary search
 
