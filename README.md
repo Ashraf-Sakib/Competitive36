@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 259 | 27 |
+| 260 | 27 |
 
 ---
 
@@ -29,13 +29,13 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (58)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (138)
+- [implementation](#implementation) (139)
 - [math](#math) (95)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (5)
 - [sortings](#sortings) (28)
-- [strings](#strings) (35)
+- [strings](#strings) (36)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (4)
 - [two pointers](#two-pointers) (5)
@@ -456,6 +456,7 @@
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
 | 2036A | [Quintomania](https://codeforces.com/contest/2036/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2036/A%20-%20Quintomania/solution.cpp) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 
 ### math
@@ -666,6 +667,7 @@
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 1935A | [Entertainment in MAC](https://codeforces.com/contest/1935/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1935/A%20-%20Entertainment%20in%20MAC/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Ashraf-Sakib/Competitive36/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
 ### ternary search
